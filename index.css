@@ -1,0 +1,85 @@
+h1 {
+    font-family: "Poppins";
+    font-size: 50px; 
+    text-transform: uppercase;
+    text-align: center;
+    color: #ffffff;
+    background-image: url("shutterstock_407554567-compressor-1.jpg");
+    padding: 60px;
+    margin: 0px 100px;
+}
+
+nav {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+a {
+    font-family: "Poppins";
+    font-size: 16px; 
+    text-transform: uppercase;
+    color: white;
+    margin-left: 50px;
+    display: inline-block;
+    background-color:#f44336;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+h2 {
+    font-family: "Montserrat";
+    font-size: 30px;
+    color: #f44336; 
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+body div {
+    margin-left: 50px;
+}
+
+table { 
+    
+    border: 2px solid #f44336;
+    border-radius: 10px;
+    border-spacing: 2px;
+    width: 1000px;
+    margin: 0 auto;
+    font-family: "Raleway";
+    line-height: 26px;
+}
+
+thead {
+    background-color:gainsboro;
+    color: black;
+    text-transform: uppercase;
+    line-height: 36px;
+    text-align: center;
+    border-color: white; 
+
+}
+
+.property {
+    padding: 0px 60px;
+    border-left: 1px dotted #f44336;
+}
+
+td {
+    border-top: 1px dotted #f44336;
+    border-left: 1px dotted #f44336;
+    margin: 20px auto;
+  }
+
+  .code {
+      margin-left: 10px;
+      margin-right: 4px;
+    }
+    .code-desc {
+        margin-left: 10px;
+        margin-right: 4px;
+        display: block;
+      }
